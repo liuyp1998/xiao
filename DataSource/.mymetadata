@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="DataSource"
+  id="myeclipse.1513302279641"
+  context-root="/datapush"
+  j2ee-spec="1.7"
+  archive="DataSource.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
